@@ -1,0 +1,13 @@
+../scripts/taoscan,sha256=Y-BzraPPuxXE3C96kzy0JdWxqsZOaVLk_ZQbK805PyU,210
+taoscan/cli.py,sha256=amOwownqrMHt7KD2bbRJaISUaw08r08w6J5AmuIBr_8,1956
+taoscan/main.py,sha256=DvoXRpPMo30tdiEgTHLA-nNSIhvO27WKTvmoV5Jl3Vo,285
+taoscan/report.py,sha256=n3qna9SCQjq9qFgybotg8CZylTizdm0kpqnRWoWZaw4,338
+taoscan/sanitizer.py,sha256=iECCwJQw6rjb0I4tEWwvqSHPYoPXcAy2zVLN-S_HlWo,1460
+taoscan/scanner.py,sha256=9fRFrmFSTN4eG0u2RWKhxc8NxJeXjNb8HjLbpAPSydw,1021
+taoscan/tools.py,sha256=olPjfYv2SbzOBe6Lm9664uCHkB7Ou3QoKlB2sSsVizE,703
+taoscan/utils/rules.py,sha256=DTcN7irZ_p3inrTU-pRu6IB9e9r9ytjqYhd4FL3O9SU,4140
+taoscan-0.1.0.dist-info/METADATA,sha256=TiWVWuBcVsfAPI5DN969IAGyCGFZwsyd8bmiRMPf_MI,116
+taoscan-0.1.0.dist-info/WHEEL,sha256=aeYiig01lYGDzBgS8HxWXOg3uV61G9ijOsup-k9o1sk,91
+taoscan-0.1.0.dist-info/entry_points.txt,sha256=zc0xHiWMDEQUSI_VK1SLwTbvD7ympuUs-t314JcBjsc,45
+taoscan-0.1.0.dist-info/top_level.txt,sha256=uI_4WODWRlLXTw0jZHRmDzp_lALFDxGdlEV5pvtaCaI,8
+taoscan-0.1.0.dist-info/RECORD,,
