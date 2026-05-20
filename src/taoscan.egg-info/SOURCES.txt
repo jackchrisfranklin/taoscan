@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 src/taoscan/cli.py
 src/taoscan/main.py

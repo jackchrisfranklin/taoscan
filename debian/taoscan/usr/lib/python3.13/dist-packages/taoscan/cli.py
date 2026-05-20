@@ -51,7 +51,7 @@ def main():
         print("\n[EXTRACT]", json.dumps(result, indent=2))
     
     if args.interpret:
-        from utils.rules import interpret
+        from taoscan.utils.rules import interpret
 
         result = interpret(report)
         print("\nINTERPRETATION")
