@@ -1,3 +1,15 @@
+taoscan (0.1.3) unstable; urgency=medium
+
+  * Debug
+
+ -- Taoscan Dev <dev@local>  Wed, 20 May 2026 00:15:23 +0000
+
+taoscan (0.1.2) unstable; urgency=medium
+
+  * Added changer.
+
+ -- Taoscan Dev <dev@local>  Wed, 20 May 2026 00:13:19 +0000
+
 taoscan (0.1.1) unstable; urgency=medium
 
   * Fixed scanner bug in interpreter.
