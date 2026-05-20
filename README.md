@@ -10,9 +10,11 @@ It can scan video files for structure issues, entropy patterns, EOF problems, an
 
 from source:
 
+```bash
 git clone https://github.com/jackhession/taoscan.git
 cd taoscan
 pip install -r requirements.txt
+```
 
 or install the latest `.deb` from the releases page:
 
@@ -28,13 +30,17 @@ sudo dpkg -i taoscan_version_amd64.deb
 
 basic scan:
 
+```
 taoscan video.mp4
+```
 
 ---
 
 ## scan options
 
+```
 taoscan video.mp4 --score --entropy --structure --eof
+```
 
 --score        anomaly score
 --entropy      entropy checks
@@ -45,7 +51,9 @@ taoscan video.mp4 --score --entropy --structure --eof
 
 ## interpret results
 
+```
 taoscan video.mp4 --interpret
+```
 
 prints a simple interpretation of the scan results
 
@@ -55,21 +63,29 @@ prints a simple interpretation of the scan results
 
 sanitize file:
 
+```
 taoscan video.mp4 --sanitize --out clean.mp4
+```
 
 rebuild (re-encode):
 
+```
 taoscan video.mp4 --rebuild --out rebuilt.mp4
+```
 
 extract suspicious data:
 
+```
 taoscan video.mp4 --extract
+```
 
 ---
 
 ## combined example
 
+```
 taoscan video.mp4 --score --entropy --interpret --sanitize --out clean.mp4
+```
 
 ---
 
