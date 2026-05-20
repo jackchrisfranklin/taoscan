@@ -1,8 +1,8 @@
 Package: taoscan
-Version: 0.1.4
+Version: 0.1.5
 Architecture: all
 Maintainer: Your Name <you@example.com>
-Installed-Size: 33
+Installed-Size: 47
 Depends: python3, ffmpeg, binwalk
 Section: utils
 Priority: optional

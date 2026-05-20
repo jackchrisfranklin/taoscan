@@ -3,3 +3,5 @@ Name: taoscan
 Version: 0.1.1
 Summary: Forensic video scanning CLI tool
 Requires-Python: >=3.8
+License-File: LICENSE
+Dynamic: license-file

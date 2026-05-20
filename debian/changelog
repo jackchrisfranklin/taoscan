@@ -1,3 +1,9 @@
+taoscan (0.1.6) unstable; urgency=medium
+
+  * Updated LICENSE file with name and year.
+
+ -- Taoscan Dev <dev@local>  Wed, 20 May 2026 15:59:26 +0000
+
 taoscan (0.1.5) unstable; urgency=medium
 
   * Added Apache 2.0 LICENSE file.
