@@ -1,12 +1,12 @@
 Source: taoscan
 Section: utils
 Priority: optional
-Maintainer: Your Name <you@example.com>
-Build-Depends: debhelper-compat (= 13), dh-python, python3-all, pybuild-plugin-pyproject
-Standards-Version: 4.6.0
+Maintainer: YOURNAME <you@example.com>
+Build-Depends: debhelper-compat (= 13), dh-python, python3-all, python3-setuptools
+Standards-Version: 4.6.2
 
 Package: taoscan
 Architecture: all
-Depends: python3, ffmpeg, binwalk
-Description: forensic video scanning CLI tool
- CLI tool for entropy analysis, structure scanning, and sanitization of video files.
+Depends: ${python3:Depends}, ${misc:Depends}
+Description: taoscan
+ Security scanning utility

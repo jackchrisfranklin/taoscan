@@ -1,3 +1,9 @@
+taoscan (0.1.7) unstable; urgency=medium
+
+  * Updated README.md.
+
+ -- Taoscan Dev <dev@local>  Wed, 20 May 2026 16:02:45 +0000
+
 taoscan (0.1.6) unstable; urgency=medium
 
   * Updated LICENSE file with name and year.

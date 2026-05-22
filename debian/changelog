@@ -1,3 +1,9 @@
+taoscan (0.1.8) unstable; urgency=medium
+
+  * Fixing up a Python bug. VE,
+
+ -- Taoscan Dev <dev@local>  Fri, 22 May 2026 02:09:19 +0000
+
 taoscan (0.1.7) unstable; urgency=medium
 
   * Updated README.md.

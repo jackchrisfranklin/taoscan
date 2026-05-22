@@ -1,10 +1,9 @@
 Package: taoscan
-Version: 0.1.6
+Version: 0.1.7
 Architecture: all
-Maintainer: Your Name <you@example.com>
-Installed-Size: 47
-Depends: python3, ffmpeg, binwalk
+Maintainer: YOURNAME <you@example.com>
+Installed-Size: 7
 Section: utils
 Priority: optional
-Description: forensic video scanning CLI tool
- CLI tool for entropy analysis, structure scanning, and sanitization of video files.
+Description: taoscan
+ Security scanning utility

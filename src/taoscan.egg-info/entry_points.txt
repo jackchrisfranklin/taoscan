@@ -1,2 +1,0 @@
-[console_scripts]
-taoscan = taoscan.cli:main
